@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba91dc1e-17b0-4440-a443-d88f8161f63b" name="Changes" comment="" />
+    <list default="true" id="ba91dc1e-17b0-4440-a443-d88f8161f63b" name="Changes" comment="probando 1">
+      <change beforePath="$PROJECT_DIR$/prueba1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/prueba1.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28IkVTVJ1agMaQHXhzGVnFID8oi" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +39,14 @@
       <option name="presentableId" value="Default" />
       <updated>1650911515013</updated>
     </task>
+    <task id="LOCAL-00001" summary="probando 1">
+      <created>1650911582272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650911582272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -40,5 +59,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="probando 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="probando 1" />
   </component>
 </project>
